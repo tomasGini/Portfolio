@@ -1,7 +1,6 @@
 {
   "name": "yo_programo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasGini/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomasGini/Portfolio/issues"
+  },
+  "homepage": "https://github.com/tomasGini/Portfolio#readme",
+  "description": ""
 }
